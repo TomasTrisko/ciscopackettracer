@@ -43,8 +43,10 @@ Výsledek: 10.**220**.0.0 / **24**
 
 ### 1. Laptop - nastavování switche
 <img width="444" height="80" alt="Screenshot 2026-03-29 174939" src="https://github.com/user-attachments/assets/43481829-5563-428c-9c6e-725d64b139c7" />
+
 ### 2. PC1 - ipconfig
 <img width="440" height="161" alt="Screenshot 2026-03-29 175147" src="https://github.com/user-attachments/assets/d503e961-52e8-473f-aa1c-486fe4f2b54e" />
+
 ### 3. PC1 - ping na PC4
 <img width="397" height="194" alt="Screenshot 2026-03-29 175232" src="https://github.com/user-attachments/assets/07f41f8f-2271-4583-83dd-c6c69b3b1661" />
 
